@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+photos/photo14.jpg filter=lfs diff=lfs merge=lfs -text
